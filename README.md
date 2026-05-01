@@ -4,7 +4,7 @@
 
 > **Lossless Scaling** — Powerful tool for upscaling and frame generation that delivers sharper visuals and smoother gameplay in any game or application.
 
-[![Stars](https://img.shields.io/github/stars/ridha61/Lossless-Scaling-Upscaler-FPS)](https://github.com/ridha61/Lossless-Scaling-Upscaler-FPS) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/ridha61/Lossless-Scaling-Upscaler-FPS)](https://github.com/ridha61/Lossless-Scaling-Upscaler-FPS) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Lossless Scaling** is a lightweight Windows application designed for real-time upscaling and frame generation. It supports lossless integer scaling, advanced AI-powered LSFG frame generation, and multiple upscaling algorithms to help achieve clearer image quality and significantly improved smoothness in games and applications.
 
